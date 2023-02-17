@@ -1,0 +1,10 @@
+.workingState{
+    padding: 150px 0px;
+    max-width: 85%;
+    margin: auto;
+}
+
+.workingState-text{
+    flex-direction: column;
+    margin-bottom: 50px;
+}

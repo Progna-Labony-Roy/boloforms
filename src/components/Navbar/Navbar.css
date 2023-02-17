@@ -1,0 +1,21 @@
+.nav{
+    background: whitesmoke;
+}
+
+.navbar{
+    height: 30px;
+    max-width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+}
+
+ul li{
+    font-size: small;
+    font-weight: 700;
+    margin-right: 20px;
+}
