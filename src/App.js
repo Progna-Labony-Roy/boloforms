@@ -9,6 +9,7 @@ import Advantages from './components/Advantages/Advantages';
 import Feedback from './components/Feedback/Feedback';
 import Workflows from './components/Workflows/Workflows';
 import RatingThree from './components/RatingThree/RatingThree'
+import Footer from './components/Footer/Footer';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
       <Feedback></Feedback>
       <Workflows></Workflows>
       <RatingThree></RatingThree>
+      {/* <Footer></Footer> */}
     </div>
   );
 }

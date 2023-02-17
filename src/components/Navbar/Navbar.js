@@ -7,11 +7,13 @@ const Navbar = () => {
         <div className="navbar">
       <section>
         <ul>
-        <li className="mr-8"></li>
-        <li>Products</li>
-        <li>Pricing</li>
-        <li>Guides</li>
-        <li>Templates</li>
+        <li className="mr-8">
+          <img className="h-24" src="https://www.boloforms.com/_next/static/media/logo-text.e6f7617c.svg" alt="" />
+        </li>
+        <li className="mt-9">Products</li>
+        <li className="mt-9">Pricing</li>
+        <li className="mt-9">Guides</li>
+        <li className="mt-9">Templates</li>
         </ul>
       </section>
       <section>
