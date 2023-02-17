@@ -1,12 +1,12 @@
 import React from 'react';
-import './RatingOne.css'
+import './RatingTwo.css'
 
 const RatingOne = () => {
     return (
-       <div className='rating-container'>
+       <div className='rating-container py-20'>
          <section className='rating-one rounded-xl'>
             <section className="rating-img">
-                <img src="https://www.boloforms.com/_next/static/media/repa.483a1471.jpeg" alt="" className='mt-4 h-24 w-24 rounded-full'/>
+                <img src="	https://www.boloforms.com/_next/static/media/alaa.a9f02030.jpeg" alt="" className='mt-4 h-24 w-24 rounded-full'/>
             </section>
             <div className="feedback">
                 <div className="rating flex">
@@ -16,8 +16,8 @@ const RatingOne = () => {
                 <i class="text-yellow-400 fa-solid fa-star"></i>
                 <i class="text-yellow-400 fa-solid fa-star"></i> 
                 </div>
-                <p className='text-sm py-4'>"Boloforms has been an absolute lifesaver for me. It makes workflow tasks much easier and helps to ensure that everything runs smoothly. I love how it automates tasks and eliminates manual processes, saving me time and effort. It's a great Google Workflow software and is well worth the money!"</p>
-                <p className='font-bold'>Repa Mandala</p>
+                <p className='text-sm py-4'>"Boloforms has changed the way my team and I work. We used to have a very inefficient workflow, but Boloforms has streamlined it and allowed us to get our daily tasks done in a fraction of the time. Plus, it's incredibly user friendly and easy to understand. I highly recommend Boloforms for anyone who needs an efficient Google workflow software!"</p>
+                <p className='font-bold'>Alaa Khaled</p>
             </div>
         </section>
 

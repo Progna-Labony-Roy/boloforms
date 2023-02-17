@@ -1,6 +1,9 @@
-.rating-one{
+.rating-container{
     max-width: 85%;
     margin: auto;
+}
+
+.rating-one{
     display: flex;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     padding: 30px 30px;
