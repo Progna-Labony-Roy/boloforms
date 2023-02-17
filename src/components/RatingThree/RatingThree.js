@@ -1,12 +1,12 @@
 import React from 'react';
-import './RatingTwo.css'
+import './RatingThree.css'
 
 const RatingOne = () => {
     return (
        <div className='rating-container py-20'>
          <section className='rating-one rounded-xl'>
             <section className="rating-img">
-                <img src="	https://www.boloforms.com/_next/static/media/alaa.a9f02030.jpeg" alt="" className='mt-4 h-24 w-24 rounded-full'/>
+                <img src="	https://www.boloforms.com/_next/static/media/raman.e5477e92.jpeg" alt="" className='mt-4 h-24 w-24 rounded-full'/>
             </section>
             <div className="feedback">
                 <div className="rating flex">
@@ -33,7 +33,7 @@ const RatingOne = () => {
 
       <section className='rating-one rounded-xl mt-16'>
             <section className="rating-img">
-                <img src="	https://www.boloforms.com/_next/static/media/deepak.e041dab0.jpeg" alt="" className='mt-4 h-24 w-24 rounded-full'/>
+                <img src="	https://www.boloforms.com/_next/static/media/john.39efe227.jpeg" alt="" className='mt-4 h-24 w-24 rounded-full'/>
             </section>
             <div className="feedback">
                 <div className="rating flex">

@@ -1,0 +1,13 @@
+.workflow-container{
+    max-width: 85%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.one{
+    background:linear-gradient(90deg,rgba(252,241,251,0),#f7dff5);
+}
+
+.two{
+    background:linear-gradient(270deg,rgba(236,243,255,0),#ecf3ff)
+}

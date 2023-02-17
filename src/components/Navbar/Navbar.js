@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className="navbar">
       <section>
         <ul>
-        <li className="mr-8">BoloForms</li>
+        <li className="mr-8"></li>
         <li>Products</li>
         <li>Pricing</li>
         <li>Guides</li>
